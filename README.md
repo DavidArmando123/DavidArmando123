@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F76C6C&width=435&lines=Backend+Developer;Python+%7C+Django+%7C+Flask;Entusiasta+em+Automação+e+APIs+REST" alt="Typing SVG" />
+  font=Fira+Code&pause=1000&color=F76C6C&width=435&lines=Backend+Developer;Python+%7C+Django+%7C+Flask;Entusiasta+em+Automação+e+APIs+REST" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,10 +13,10 @@
 ### 👨‍💻 Sobre mim
 
 - 🔭 Atualmente trabalhando em projetos próprios de automação e backend
-- 🌱 Estudando tecnologias como Docker, Django REST Framework e PostgreSQL
+- 🌱 Estudando tecnologias como Docker, Django REST Framework e Mysql
 - 💡 Interessado em **APIs**, **CI/CD**, **devtools** e boas práticas de software
 - 🧠 Apaixonado por resolver problemas reais com código limpo e eficiente
-- 📫 Como me encontrar: `davidarmando.dev@gmail.com`
+- 📫 Como me encontrar: `davidarmando678.@gmail.com`
 
 ---
 
