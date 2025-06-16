@@ -4,9 +4,6 @@
   Olá, eu sou o David 👋
 </h1>
 
-<p align="center">
-  font=Fira+Code&pause=1000&color=F76C6C&width=435&lines=Backend+Developer;Python+%7C+Django+%7C+Flask;Entusiasta+em+Automação+e+APIs+REST" alt="Typing SVG" />
-</p>
 
 ---
 
